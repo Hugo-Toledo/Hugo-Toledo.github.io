@@ -1,7 +1,7 @@
 
 ###  Courses
 
-[R Course UNIP](Hugo-Toledo.github.io/courses/R_UNIPD.md)
+[R Course UNIP](courses/R_UNIPD.md)
 
 ----
 ###  Projects
